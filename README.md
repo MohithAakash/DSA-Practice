@@ -1,1 +1,1 @@
-    A repository of solutions to problems on Data Structures and Algorithms majorly from Leetcode & GeeksforGeeks.
+A repository of solutions to problems on Data Structures and Algorithms majorly from Leetcode & GeeksforGeeks.
