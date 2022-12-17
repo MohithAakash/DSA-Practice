@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/3-sum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bst_nodes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/circular-tour" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/container-11-lc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/hanoi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/max-subarray" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/number-line-jumps" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/polynomial_add" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ransom-383-lc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/roman2int-13-lc" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/str_permutations" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
