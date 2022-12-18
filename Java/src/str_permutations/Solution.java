@@ -1,3 +1,5 @@
+package str_permutations;
+
 // https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1/#
 
 import java.util.*;

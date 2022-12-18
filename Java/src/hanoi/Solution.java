@@ -1,3 +1,7 @@
+package hanoi;
+
+
+
 class Solution{
     
     static int i=0, count, n1, n2;
