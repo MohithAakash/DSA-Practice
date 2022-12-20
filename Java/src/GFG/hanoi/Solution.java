@@ -1,4 +1,4 @@
-package hanoi;
+package GFG.hanoi;
 
 
 

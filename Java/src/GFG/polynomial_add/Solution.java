@@ -1,4 +1,4 @@
-package polynomial_add;
+package GFG.polynomial_add;
 
 // https://practice.geeksforgeeks.org/problems/polynomial-addition/1
 

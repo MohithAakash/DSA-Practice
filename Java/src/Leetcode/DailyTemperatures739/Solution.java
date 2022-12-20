@@ -1,4 +1,4 @@
-package DailyTemperatures739;
+package Leetcode.DailyTemperatures739;
 
 import java.util.Stack;
 

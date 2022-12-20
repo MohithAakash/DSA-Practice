@@ -1,4 +1,4 @@
-package KeysAndRooms841;
+package Leetcode.KeysAndRooms841;
 
 
 import java.util.LinkedList;

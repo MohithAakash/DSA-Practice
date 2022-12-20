@@ -1,4 +1,4 @@
-package bst_nodes;
+package GFG.bst_nodes;
 
 // https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1
 
