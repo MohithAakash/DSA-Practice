@@ -1,4 +1,4 @@
-package Leetcode.str_permutations;
+package GFG.str_permutations;
 
 // https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1/#
 

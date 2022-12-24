@@ -1,4 +1,4 @@
-package Leetcode.str_permutations;
+package GFG.str_permutations;
 
 // Java program to print all permutations of a
 // given string.
